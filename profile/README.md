@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-This is a club for `Problem Solving` in 42seoul.
+42ps is a community dedicated to `Problem Solving` in 42seoul.
 
 If you would like to join us, e-mail `skyttl34@gmail.com`
